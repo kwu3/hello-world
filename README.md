@@ -1,5 +1,6 @@
 # hello-world
-try out of repository
+
+delete the try out line
 I am not happy about doing this stupid project.
 
 
