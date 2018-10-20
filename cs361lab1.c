@@ -1,17 +1,14 @@
 #include <stdio.h>
 
-void example(){
-	static int x =2;
-	x=x+1;
-	printf("x = %d ", x);
-}
 
 
 int main(){
-	example();
-	example();
-	example();
-	example();
-	example();
+	printf("\n Goint to prelace GG with HH\n");
+
+	printf("\n No one lines GG\n");
+
+
+
+	printf("This line is hard to reach ");
 	
 }
