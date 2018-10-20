@@ -3,9 +3,9 @@
 
 
 int main(){
-	printf("\n Goint to prelace GG with HH\n");
+	printf("\n Goint to prelace HH with HH\n");
 
-	printf("\n No one lines GG\n");
+	printf("\n No one lines HH\n");
 
 
 
